@@ -14753,7 +14753,7 @@ ul.companies li a img{
 }
 
 .billboard{
-	background:url('/Modificada/img/billboard.jpg') center -20px repeat-x;
+	background:url('/Modificada/img/hong-kong-sunset.jpg') center -20px repeat-x;
 	background-size:cover;
 	padding:120px 0px 70px
 }
@@ -15709,7 +15709,7 @@ section.header-page{
 
 section.header-page .inner-header{
 	height:185px;
-	background:url("/Modificada/img/billboard.jpg") center 50px repeat-x;
+	background:url("/Modificada/img/hong-kong-sunset.jpg") center 50px repeat-x;
 	background-size:cover;
 	padding-top:135px;
 	text-align:left;
@@ -15734,7 +15734,7 @@ section.header-page .inner-header{
 @media (min-width: 992px){
 	section.header-page .inner-header{
 		height:225px;
-		background:url("/Modificada/img/billboard.jpg") center -200px repeat-x
+		background:url("/Modificada/img/hong-kong-sunset.jpg") center -200px repeat-x
 	}
 
 }
@@ -16147,4 +16147,9 @@ footer .footer-bottom ul.footer-nav li a:hover{
 #loading i{
 	color:rgba(0, 0, 0, 0.1);
 	font-size:8em
+}
+
+p{
+    text-align: justify;
+        
 }
