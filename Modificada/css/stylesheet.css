@@ -24,7 +24,7 @@
 	display:inline-block;
 	padding-right:2px;
 	line-height:1.5;
-	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif
+	font-family:'ReinGrotesk-Bold', Helvetica, Arial, sans-serif
 }
 
 #login-buttons .loading{
@@ -45,7 +45,7 @@
 	user-select:none;
 	padding:4px 8px;
 	font-size:80%;
-	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family:'ReinGrotesk-Bold', Helvetica, Arial, sans-serif;
 	line-height:1.5;
 	text-align:center;
 	color:#fff;
@@ -78,7 +78,7 @@
 	line-height:inherit;
 	color:inherit;
 	font:inherit;
-	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif
+	font-family:'ReinGrotesk-Bold', Helvetica, Arial, sans-serif
 }
 
 .accounts-dialog .login-button{
@@ -203,7 +203,7 @@
 .accounts-dialog>.login-close-text{
 	line-height:inherit;
 	font-size:inherit;
-	font-family:inherit
+	font-family:'ReinGrotesk-Bold'
 }
 
 .accounts-dialog label,.accounts-dialog .title{
@@ -285,7 +285,7 @@
 }
 
 .accounts-centered-dialog{
-	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family:'ReinGrotesk-Bold', Helvetica, Arial, sans-serif;
 	z-index:1001;
 	position:fixed;
 	left:50%;
@@ -306,7 +306,7 @@
 
 #configure-login-service-dialog input{
 	width:100%;
-	font-family:"Courier New", Courier, monospace
+	font-family:"ReinGrotesk-Bold", Courier, monospace
 }
 
 #configure-login-service-dialog ol{
@@ -331,7 +331,7 @@
 }
 
 #configure-login-service-dialog .url{
-	font-family:"Courier New", Courier, monospace
+	font-family:"ReinGrotesk-Bold", Courier, monospace
 }
 
 #configure-login-service-dialog-save-configuration{
@@ -680,7 +680,7 @@
 	z-index:2000;
 	visibility:hidden;
 	font-size:16px;
-	font-family:HelveticaNeue,Helvetica,Arial,sans-serif
+	font-family:'ReinGrotesk-Bold',HelveticaNeue,Helvetica,Arial,sans-serif
 }
 
 .medium-editor-toolbar ul,.medium-editor-anchor-preview ul{
@@ -716,7 +716,7 @@
 	padding:15px 0;
 	font-weight:100;
 	font-size:12px;
-	font-family:'Menlo',monospace
+	font-family:'ReinGrotesk-Bold',monospace
 }
 
 .medium-editor-anchor-preview i{
@@ -749,7 +749,7 @@
 }
 
 .medium-editor-toolbar-form-anchor input,.medium-editor-toolbar-form-anchor a{
-	font-family:HelveticaNeue,Helvetica,Arial,sans-serif
+	font-family:'ReinGrotesk-Bold',HelveticaNeue,Helvetica,Arial,sans-serif
 }
 
 .medium-editor-toolbar-form-anchor input{
@@ -5866,7 +5866,7 @@ audio:not([controls]){
 }
 
 html{
-	font-family:sans-serif;
+	font-family:'ReinGrotesk-Bold',sans-serif;
 	-webkit-text-size-adjust:100%;
 	-ms-text-size-adjust:100%
 }
@@ -5912,7 +5912,7 @@ mark{
 }
 
 code,kbd,pre,samp{
-	font-family:monospace, serif;
+	font-family:'ReinGrotesk-Bold',monospace, serif;
 	font-size:1em
 }
 
@@ -6112,7 +6112,7 @@ html{
 }
 
 body{
-	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:"ReinGrotesk-Bold","Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size:14px;
 	line-height:1.428571429;
 	color:#333333;
@@ -6120,7 +6120,7 @@ body{
 }
 
 input,button,select,textarea{
-	font-family:inherit;
+	font-family:'ReinGrotesk-Bold',inherit;
 	font-size:inherit;
 	line-height:inherit
 }
@@ -6257,7 +6257,7 @@ cite{
 }
 
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
-	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:'ReinGrotesk-Bold',"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight:500;
 	line-height:1.1
 }
@@ -6463,7 +6463,7 @@ address{
 }
 
 code,pre{
-	font-family:Monaco, Menlo, Consolas, "Courier New", monospace
+	font-family:'ReinGrotesk-Bold',Monaco, Menlo, Consolas, "Courier New", monospace
 }
 
 code{
@@ -7398,7 +7398,7 @@ select[multiple],select[size]{
 }
 
 select optgroup{
-	font-family:inherit;
+	font-family:'ReinGrotesk-Bold',inherit;
 	font-size:inherit;
 	font-style:inherit
 }
@@ -12277,8 +12277,8 @@ th.visible-print,td.visible-print{
 
 @font-face{
 	font-family:'FontAwesome';
-	src:url('fonts/fontawesome-webfont.eot?v=3.2.1');
-	src:url('fonts/fontawesome-webfont.eot?#iefix&v=3.2.1') format('embedded-opentype'), url('fonts/fontawesome-webfont.woff?v=3.2.1') format('woff'), url('fonts/fontawesome-webfont.ttf?v=3.2.1') format('truetype'), url('fonts/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1') format('svg');
+	src:url('/fonts/fontawesome-webfont.eot?v=3.2.1');
+	src:url('/fonts/fontawesome-webfont.eot?#iefix&v=3.2.1') format('embedded-opentype'), url('/fonts/fontawesome-webfont.woff?v=3.2.1') format('woff'), url('/fonts/fontawesome-webfont.ttf?v=3.2.1') format('truetype'), url('/fonts/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1') format('svg');
 	font-weight:normal;
 	font-style:normal
 }
@@ -14721,7 +14721,7 @@ ul.companies li a img{
 }
 
 .contact-page .contact-info h2{
-	font-family:'Bebas', sans-serif;
+	font-family:'ReinGrotesk-Bold','Bebas', sans-serif;
 	margin-bottom:20px;
 	margin-top:50px
 }
@@ -14753,7 +14753,7 @@ ul.companies li a img{
 }
 
 .billboard{
-	background:url('/Modificada/img/hong-kong-sunset.jpg') center -20px repeat-x;
+	background:url('/img/hong-kong-sunset4.jpg') center -20px repeat-x;
 	background-size:cover;
 	padding:120px 0px 70px
 }
@@ -14785,6 +14785,9 @@ ul.companies li a img{
 	font-weight:600;
 	text-shadow:0 0 40px rgba(0, 0, 0, 0.8);
 	color:#fff
+}
+.negrita{
+    color:#000
 }
 
 @media (min-width: 992px){
@@ -15344,15 +15347,21 @@ ul.team li .tweeter a,ul.team li .tweeter a:hover{
 }
 
 @font-face{
-	font-family:'Bebas';
-	src:url('/fonts/bebas___-webfont.eot');
-	src:url('/fonts/bebas___-webfont.eot?#iefix') format('embedded-opentype'), url('/fonts/bebas___-webfont.woff') format('woff'), url('/fonts/bebas___-webfont.ttf') format('truetype'), url('/fonts/bebas___-webfont.svg#Bebas') format('svg');
-	font-weight:normal;
-	font-style:normal
-}
+	font-family:'ReinGrotesk-Bold';
+    font-weight: bold;
+	src:url('/fonts/ReinGrotesk-Bold.otf') format('opentype');
+}/*
+@font-face { font-family: 'ReinGrotesk-Bold';
+    font-weight:normal;
+    src: url('/fonts/ReinGrotesk-Regular.otf')format('opentype'); 
+} */
+@font-face { font-family: 'ReinGrotesk-Bold';
+    font-weight: normal;
+    src: url('/fonts/ReinGrotesk-Light.otf')format('opentype'); 
+} 
 
 body{
-	font-family:"proxima-nova", sans-serif;
+	font-family:"ReinGrotesk-Bold", sans-serif;
 	font-weight:300;
 	font-size:20px;
 	line-height:1.5;
@@ -15365,7 +15374,7 @@ a{
 }
 
 h1,h2,h3,h4{
-	font-family:"proxima-nova", sans-serif;
+	font-family:'ReinGrotesk-Bold',"proxima-nova", sans-serif;
 	color:#34495e;
 	font-weight:600;
 	margin:30px 0 20px
@@ -15490,7 +15499,7 @@ ul li{
 }
 
 .diff-bio h2{
-	font-family:'Bebas', sans-serif;
+	font-family:'ReinGrotesk-Bold', sans-serif;
 	text-transform:uppercase
 }
 
@@ -15586,9 +15595,9 @@ ul.social li i{
 	font-weight:300;
 	font-size:36px;
 	line-height:27px;
-	text-shadow:none;
+	text-shadow:2px 2px 2px black;
 	margin-left:0px !important;
-	font-family:'Bebas', sans-serif;
+	font-family:'ReinGrotesk-Bold', sans-serif;
 	padding:15px 0
 }
 
@@ -15599,7 +15608,7 @@ ul.social li i{
 
 .navbar-inverse ul.nav li a{
 	color:rgba(255, 255, 255, 0.6);
-	text-shadow:none;
+	text-shadow:2px 2px 2px black;
 	padding:20px 15px 21px;
 	font-size:18px;
 	font-weight:100;
@@ -15709,7 +15718,7 @@ section.header-page{
 
 section.header-page .inner-header{
 	height:185px;
-	background:url("/Modificada/img/hong-kong-sunset.jpg") center 50px repeat-x;
+	background:url("/img/hong-kong-sunset4.jpg") center 50px repeat-x;
 	background-size:cover;
 	padding-top:135px;
 	text-align:left;
@@ -15734,7 +15743,7 @@ section.header-page .inner-header{
 @media (min-width: 992px){
 	section.header-page .inner-header{
 		height:225px;
-		background:url("/Modificada/img/hong-kong-sunset.jpg") center -200px repeat-x
+		background:url("/img/hong-kong-sunset4.jpg") center -200px repeat-x
 	}
 
 }
@@ -15905,7 +15914,7 @@ footer .footer-top .footer-content .map h3,footer .footer-top .footer-content .m
 footer .footer-top .footer-content .map #location-map{
 	height:200px;
 	border:6px solid #E67E22;
-	background:url('/Modificada/img/map.jpg') center center;
+	background:url('/img/map.jpg') center center;
 	background-size:cover
 }
 
@@ -15949,7 +15958,7 @@ footer .footer-top .footer-content .contact-info{
 }
 
 footer .footer-top .footer-content .contact-info h2{
-	font-family:'Bebas', sans-serif;
+	font-family:'ReinGrotesk-Bold', sans-serif;
 	color:#fff;
 	margin-bottom:20px;
 	margin-top:50px
@@ -16148,8 +16157,7 @@ footer .footer-bottom ul.footer-nav li a:hover{
 	color:rgba(0, 0, 0, 0.1);
 	font-size:8em
 }
-
+/*de aqui para abajo son aditamientos*/
 p{
-    text-align: justify;
-        
+    text-align: justify;        
 }
